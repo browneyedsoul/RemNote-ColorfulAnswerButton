@@ -2,5 +2,5 @@
 
 ## Display
 
-![ligiht](https://github.com/browneyedsoul/RemNote-ButtonEnhancer/raw/main/public/button-light.png)
-![dark](https://github.com/browneyedsoul/RemNote-ButtonEnhancer/raw/main/public/button-dark.png)
+![ligiht](https://github.com/browneyedsoul/RemNote-ColorfulAnswerButton/raw/main/public/button-light.png)
+![dark](https://github.com/browneyedsoul/RemNote-ColorfulAnswerButton/raw/main/public/button-dark.png)
