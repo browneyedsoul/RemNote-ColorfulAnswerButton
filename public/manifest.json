@@ -7,11 +7,11 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
   "theme": [],
   "enableOnMobile": true,
-  "description": "",
+  "description": "Colorize your Buttons in Flashcard!",
   "requestNative": true,
   "requiredScopes": [
     {
