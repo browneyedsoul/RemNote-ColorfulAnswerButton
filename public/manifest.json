@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "id": "browneyedsoul-ButtonEnhancer",
-  "name": "Button Enhancer",
+  "id": "browneyedsoul-ColorfulAnswerButton",
+  "name": "Colorful Answer Button",
   "author": "Min-Ki Park",
-  "repoUrl": "https://github.com/browneyedsoul/RemNote-ButtonEnhancer",
+  "repoUrl": "https://github.com/browneyedsoul/RemNote-ColorfulAnswerButton",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   },
   "theme": [],
   "enableOnMobile": true,
